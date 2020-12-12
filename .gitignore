@@ -1,6 +1,8 @@
 ~$*.xlsx
 test/Test*.xlsx
 test/Test*.xlsm
+test/BadEncrypt.xlsx
+test/BadWorkbook.SaveAsEmptyStruct.xlsx
 test/*.png
 *.out
 *.test
